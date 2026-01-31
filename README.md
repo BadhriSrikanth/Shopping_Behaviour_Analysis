@@ -1,1 +1,1 @@
-# Shopping_Behaviour_Analysis
+#This project explores customer shopping behavior to uncover purchasing patterns, spending trends, and actionable business insights. Using data analysis and machine learning techniques, the goal is to understand customer characteristics and predict behavioral outcomes that can support data-driven decision-making.
